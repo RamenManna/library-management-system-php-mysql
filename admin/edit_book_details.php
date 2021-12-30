@@ -33,8 +33,8 @@ if ($_SESSION['RollNo']) {
 
         </div>
         <!-- /navbar -->
-        <div class="wrapper">
-            <div class="container">
+        <div class="wrapper" style="background-color: #2E5A6F; border: 2px solid black;">
+            <div class="container" style="background-color: #A7DCF5; border: 2px solid black;">
                 <div class="row">
                     <div class="span3">
                         <div class="sidebar">
